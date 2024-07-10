@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Event Management Project<br>🌱 I’m currently learning about Javascript framework especially, Vue and React<br>⚡ Fun fact: I love what i'm doing!
+🔭 I’m currently working on an Event Management Project and a Profile Website for my campus organization<br>🌱 I’m currently learning about Javascript framework especially, Vue and React<br>⚡ Fun fact: I love what i'm doing!
 
 
 ## 🌐 Socials:
